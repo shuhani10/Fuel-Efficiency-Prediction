@@ -9,3 +9,7 @@ To enhance model performance, the dataset is split into training and testing set
 
 Each model's performance is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²). The Random Forest model achieved the highest R² score with minimal errors, establishing it as the most effective model for this task. A plot of actual vs. predicted MPG values visually confirmed the model’s accuracy.This study provides valuable insights into factors influencing fuel efficiency, with potential applications in vehicle design and fuel economy optimization. 
 It highlights the effectiveness of machine learning in addressing complex, real-world regression tasks.
+
+You can view my project here: [Google Colab Notebook]
+
+(https://colab.research.google.com/drive/1YSBWW2Ts4iD71FLeuElt97mXUj_ygpX4#scrollTo=q1HWVIeF1lE5)
